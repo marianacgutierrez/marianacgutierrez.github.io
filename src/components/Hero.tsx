@@ -3,7 +3,7 @@ import { Language } from '../types';
 import { translations } from '../data/translations';
 import { institutionalLinks } from '../data/profileData';
 import { Download, ExternalLink, BookOpen, ShieldCheck, Award, Building2, FileText } from 'lucide-react';
-import profileImage from '../src/assets/images/mariana.jpeg';
+import profileImage from '../assets/images/mariana.jpeg';
 
 interface HeroProps {
   currentLang: Language;
