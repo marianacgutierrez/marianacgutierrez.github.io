@@ -3,6 +3,7 @@ import { Language } from '../types';
 import { translations } from '../data/translations';
 import { institutionalLinks } from '../data/profileData';
 import { Download, ExternalLink, BookOpen, ShieldCheck, Award, Building2, FileText } from 'lucide-react';
+import profileImage from '../src/assets/images/mariana.jpeg';
 
 interface HeroProps {
   currentLang: Language;
@@ -26,7 +27,7 @@ export const Hero: React.FC<HeroProps> = ({ currentLang }) => {
             <div className="relative group">
               <div className="w-48 h-48 sm:w-56 sm:h-56 lg:w-64 lg:h-64 rounded-2xl overflow-hidden border-4 border-white/80 shadow-xl bg-slate-300">
                 <img
-                  src="/src/assets/images/mariana.jpeg"
+                  src={profileImage}
                   alt="Dra. Mariana Carla Gutiérrez - CONICET UNC"
                   className="w-full h-full object-cover object-top grayscale contrast-105 brightness-95 transition duration-300 group-hover:scale-105"
                   referrerPolicy="no-referrer"
