@@ -1,0 +1,6 @@
+{
+  "name": "Perfil Académico - Dra. Mariana Carla Gutiérrez",
+  "description": "Perfil académico e investigador de la Dra. Mariana Carla Gutiérrez (CONICET / UNC). Publicaciones destacadas, repositorio RI CONICET, trayectoria y opción trilingüe (ES/PT/EN).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
