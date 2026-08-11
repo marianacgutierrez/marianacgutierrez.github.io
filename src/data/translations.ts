@@ -135,7 +135,7 @@ export const translations: Record<Language, {
     aboutBioP1: "Mariana Carla Gutiérrez es Doctora en Ciencia Política, Magíster en Sociología y Licenciada en Administración por la Universidad Nacional de Córdoba (UNC). Actualmente se desempeña como investigadora posdoctoral con beca cofinanciada CONICET-UNC en el Instituto de Estudios en Comunicación, Expresión y Tecnologías (IECET - CONICET/UNC).",
     aboutBioP2: "Su campo de trabajo investiga la interacción entre el Estado, la ciudadanía y los actores privados en el diseño y ejecución de políticas públicas. Sus áreas prioritarias comprenden la gobernanza multinivel, las estrategias de innovación pública local (Smart City y GovTech en Córdoba), y el análisis de políticas culturales comunitarias y acciones colectivas.",
     aboutDoctoralThesis: "Tesis Doctoral",
-    aboutDoctoralThesisTitle: "Transformaciones en la gestión pública y gobernanza de políticas culturales comunitarias en Argentina.",
+    aboutDoctoralThesisTitle: "Política cultural, gobernanza y subjetivación política: las políticas culturales comunitarias en Argentina y en la ciudad de Córdoba.",
     keyFieldsTitle: "Áreas de Conocimiento Clave",
 
     researchTitle: "Líneas de Investigación Activas",
@@ -231,7 +231,7 @@ export const translations: Record<Language, {
     aboutBioP1: "Mariana Carla Gutiérrez é Doutora em Ciência Política, Mestre em Sociologia e Bacharel em Administração pela Universidad Nacional de Córdoba (UNC). Atualmente é pesquisadora pós-doutoral com bolsa cofinanciada CONICET-UNC no Instituto de Estudios en Comunicación, Expresión y Tecnologías (IECET - CONICET/UNC).",
     aboutBioP2: "Seu campo de trabalho investiga a interação entre o Estado, a cidadania e os atores privados no desenho e execução de políticas públicas. Suas áreas prioritárias compreendem a governança multinível, as estratégias de inovação pública local (Smart City e GovTech em Córdoba), e a análise de políticas culturais comunitárias e ações coletivas.",
     aboutDoctoralThesis: "Tese de Doutorado",
-    aboutDoctoralThesisTitle: "Transformações na gestão pública e governança de políticas culturais comunitárias na Argentina.",
+    aboutDoctoralThesisTitle: "Política cultural, governança e subjetivação política: políticas culturais comunitárias na Argentina e na cidade de Córdoba.",
     keyFieldsTitle: "Áreas de Conhecimento Chave",
 
     researchTitle: "Linhas de Pesquisa Ativas",
@@ -327,7 +327,7 @@ export const translations: Record<Language, {
     aboutBioP1: "Mariana Carla Gutiérrez holds a Ph.D. in Political Science, a Master's degree in Sociology, and a Bachelor's degree in Business Administration from the National University of Córdoba (UNC), Argentina. She is currently a postdoctoral fellow co-funded by CONICET and UNC at the Institute of Communication, Expression and Technology Studies (IECET - CONICET/UNC).",
     aboutBioP2: "Her work investigates state-citizen-private interactions in public policy design and implementation. Her key areas of expertise include multi-level governance, local public innovation strategies (Smart Cities and GovTech in Córdoba), and the political analysis of community cultural policies and collective action.",
     aboutDoctoralThesis: "Doctoral Dissertation",
-    aboutDoctoralThesisTitle: "Transformations in public administration and governance of community cultural policies in Argentina.",
+    aboutDoctoralThesisTitle: "Cultural policy, governance and political subjectivation: community cultural policies in Argentina and in the city of Córdoba.",
     keyFieldsTitle: "Key Fields of Expertise",
 
     researchTitle: "Active Research Lines",
